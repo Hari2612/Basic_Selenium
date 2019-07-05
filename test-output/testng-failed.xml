@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="author" value="hari"/>
+  <parameter name="searchKey" value="india"/>
+  <parameter name="url" value="https://google.com"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.web.project.Test99GuruLogin">
+        <methods>
+          <include name="test_Home_Page_Appear_Correct"/>
+        </methods>
+      </class> <!-- com.web.project.Test99GuruLogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

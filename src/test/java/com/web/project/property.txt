@@ -1,0 +1,5 @@
+url =http://demo.guru99.com/V4/
+username =mgr123
+password =mgr!23 
+browser=firefox
+#browser=ie
